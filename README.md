@@ -1,4 +1,4 @@
-### Hi there 👋, Hulya Redzheb
+### Hi there 👋, I'm Hulya
 
 I’m interested in  Python, JavaScript , HTML and CSS.
 
