@@ -8,6 +8,10 @@ Skills: PYTHON/ JS / HTML / CSS
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Hulyamr13&theme=dark)](https://github.com/Hulyamr13)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&hide_progress=true&theme=dark)](https://github.com/Hulyamr13)
 
 ![Profile views](https://gpvc.arturio.dev/hulyamr13)  
