@@ -12,14 +12,14 @@ Skills: PYTHON/ JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hulyamr13t)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hulyamr13&theme=tokyonight)](https://github.com/Hulyamr13)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hulyamr13&theme=tokyonight)](https://github.com/Hulyamr13)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&hide_progress=true&theme=tokyonight)](https://github.com/Hulyamr13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&hide_progress=true&theme=highcontrast)](https://github.com/Hulyamr13)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&langs_count=8&theme=tokyonight)](https://github.com/Hulyamr13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&langs_count=8&theme=highcontrast)](https://github.com/Hulyamr13)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hulyamr13&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hulyamr13&theme=highcontrast)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/hulyamr13)  
