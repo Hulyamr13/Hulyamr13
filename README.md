@@ -17,3 +17,7 @@ Skills: PYTHON/ JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&hide_progress=true&theme=tokyonight)](https://github.com/Hulyamr13)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&langs_count=8&theme=tokyonight)](https://github.com/Hulyamr13)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hulyamr13&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/hulyamr13)  
