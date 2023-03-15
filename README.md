@@ -12,6 +12,5 @@ Skills: PYTHON/ JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hulyamr13&hide_progress=true&theme=dark)](https://github.com/Hulyamr13)
 
 ![Profile views](https://gpvc.arturio.dev/hulyamr13)  
