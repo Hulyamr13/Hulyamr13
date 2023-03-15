@@ -6,11 +6,9 @@ Skills: PYTHON/ JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hulyamr13t) 
 
-<img align="right" alt="coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13)
-
-<img align="right" alt="coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Hulyamr13&theme=highcontrast)](https://github.com/Hulyamr13)
 
