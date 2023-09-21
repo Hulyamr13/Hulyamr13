@@ -7,6 +7,6 @@ Skills: PYTHON/ JS / HTML / CSS
  
 🔥 My Stats :
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hulyamr13&theme=dark)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hulyamr13&theme=dark)](https://git.io/streak-stats)
 
 
