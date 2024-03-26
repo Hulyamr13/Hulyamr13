@@ -10,3 +10,4 @@ Skills: PYTHON/ JS / HTML / CSS
 
 ![Snake animation](https://github.com/Hulyamr13/Hulyamr13/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/Hulyamr13/Hulyamr13/blob/output/github-contribution-grid-snake-dark.svg)
