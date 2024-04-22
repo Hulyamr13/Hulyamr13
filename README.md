@@ -13,11 +13,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hulyamr13&theme=dark&background=000000&show_icons=true&locale=en&layout=compact" alt="hulyamr13" /></p>
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Hulyamr13"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hulyamr13" /></a><a href="https://ko-fi.com/Hulyamr13"> </a></p><br><br>
-
-
